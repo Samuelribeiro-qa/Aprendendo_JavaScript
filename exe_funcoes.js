@@ -16,3 +16,5 @@ function Soma (num1, num2) {
 }
 
 Soma(20, 10)
+
+var belo ='Humans'
